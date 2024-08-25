@@ -1,6 +1,9 @@
 body {
     font-family:'Courier New', Courier, monospace;
     text-align: center;
+    background-color: black; /* Fondo negro para el body */
+    margin: 0; /* Asegúrate de que no haya margen en el body */
+    padding: 0; /* Asegúrate de que no haya relleno en el body */
 }
 
 #board {
